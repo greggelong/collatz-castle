@@ -83,7 +83,7 @@ def collatzgame():
             mychoice = int(input("Please choose from the above doors. >>"))
         
         mynum = mychoice
-        
+        steps +=1
     print("*"*18)
     print("YOU HAVE ESCAPED COLLATZ CASTLE")
         
