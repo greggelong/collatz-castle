@@ -1,6 +1,6 @@
 # collatz-castle
 Text adventure game using the Collatz conjecture, in python and P5.js
-
+```
 -/--/--/--/--/--/--/--/--/--/-
 ESCAPE FROM COLLATZ CASTLE
 -/--/--/--/--/--/--/--/--/--/-
@@ -63,7 +63,7 @@ You are in room 4 , there are 3 doors
 Please choose from the above doors. >>1
 ******************
 YOU HAVE ESCAPED COLLATZ CASTLE
-
+```
 
 if you need a map. https://www.jasondavies.com/collatz-graph/ is a great visualization
 
